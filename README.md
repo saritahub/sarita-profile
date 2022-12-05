@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sarita, a recent graduate from [Makers] (https://makers.tech/) bootcamp 👨‍💻 </div>  
+### <div align="center">I'm Sarita, a recent graduate from [Makers](https://makers.tech/) bootcamp 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on refining my MERN skillset  
