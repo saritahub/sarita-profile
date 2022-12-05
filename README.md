@@ -49,13 +49,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
