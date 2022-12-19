@@ -7,6 +7,7 @@
 #### **Find my CV [here](https://github.com/saritahub/CV)**
 
 
+- 💻 Open to work 
 - 🔭 I’m currently working on refining my MERN skillset  
 
 
