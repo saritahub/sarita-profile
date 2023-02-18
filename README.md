@@ -6,11 +6,6 @@
 ### <div align="center">I'm Sarita, a recent graduate from [Makers](https://makers.tech/) bootcamp 👩🏽‍💻 </div>  
 #### **Find my CV [here](https://github.com/saritahub/CV)**
 
-
-- 💻 Open to work 
-- 🔭 I’m currently working on refining my MERN skillset  
-
-
 <br/>  
 
 
